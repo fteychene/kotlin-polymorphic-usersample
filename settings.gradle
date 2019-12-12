@@ -1,0 +1,3 @@
+rootProject.name = 'user-sample'
+include 'domain'
+
